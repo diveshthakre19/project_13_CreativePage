@@ -6,7 +6,7 @@ by Divesh Thakre
 ![badge](https://img.shields.io/badge/Project-13-blue)
 
 
-![preview](./images/13.jpg)
+![preview](./images/14.jpg)
 
 [Deployed link ](https://divesh13.netlify.app/)
 
